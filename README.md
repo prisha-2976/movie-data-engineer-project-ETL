@@ -34,7 +34,8 @@ Ubuntu -	OS for running Airflow
 Virtual Environment (venv) -	Python environment isolation
 
 📂 Project Structure
-Movie_Data_Engineer_Pipeline
+Movie_Data_Engineer_Project(ETL)
+
       ├── tmdb.py            # ETL logic
       └── tmdb_dag.py        # Airflow DAG for automation
 

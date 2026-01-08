@@ -1,4 +1,4 @@
-Automated Movie Data ETL Pipeline Using Airflow
+CineFlow: An Autonomous Movie Data Pipeline
 
 📘 Project Overview
 
